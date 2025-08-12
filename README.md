@@ -21,6 +21,6 @@ This is a simple Android app to select and view PDF files from your phone’s fi
 ## How to Run
 1. Download or clone this project.
 2. Open in Android Studio.
-3. Build and run on a device or emulator.
+3. Build and run on a device or emulator. The code is well commented so user can get a better clarification about the codes.
 
 ---
